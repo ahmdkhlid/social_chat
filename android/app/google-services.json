@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "301002075126",
+    "project_id": "social-chat-b6eba",
+    "storage_bucket": "social-chat-b6eba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301002075126:android:2acd4fb100b59f0e0275d7",
+        "android_client_info": {
+          "package_name": "com.example.social_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301002075126-p1sd2vtmuirkbh70c2df4hsrj4ml2bv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_chat",
+            "certificate_hash": "a2f79e0eb20e0738a44b8a94b0e5c485fdc798b0"
+          }
+        },
+        {
+          "client_id": "301002075126-uk72n4asglf7piuu5drj2he74v110ss2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQlpr_5RVPpqbmKQ8wrwRynCL5nqqyp0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301002075126-uk72n4asglf7piuu5drj2he74v110ss2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
